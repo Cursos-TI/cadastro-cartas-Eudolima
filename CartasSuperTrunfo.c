@@ -15,6 +15,7 @@ int main() {
     int numero_pontos_turisticos;
 
   // Área para entrada de dados
+
     printf("Digite o estado: ");
     scanf("%s", estado);
 
@@ -61,6 +62,7 @@ int main() {
     
 
   // Área para exibição dos dados da cidade
+  
     printf("\nCarta 1: \n");
     printf("Estado: %s \n", estado);
     printf("Código: %s \n", codigo_carta);
